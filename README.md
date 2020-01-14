@@ -9,4 +9,4 @@ helm repo update
 
 ### Charts
 
-* [http-folder](charts/http-folder/README.md)
+* [http-folder](charts/http-folder)
