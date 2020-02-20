@@ -1,0 +1,82 @@
+apiVersion: v1
+entries:
+  http-folder:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2020-02-20T15:29:31.371304297Z"
+    description: A simple web server with file upload and download
+    digest: 9176c30306e4601f0856cce3b93ce84b45237c45c4b16aae194e61be0e3e1f02
+    home: https://github.com/AurelienGasser/http-folder
+    keywords:
+    - http
+    - web
+    - server
+    - file
+    - upload
+    - download
+    maintainers:
+    - email: aurelien.gasser@gmail.com
+      name: AurelienGasser
+    - email: clement@gautier.im
+      name: ClementGautier
+    - email: kelvin.moutet@owkin.com
+      name: Kelvin-M
+    name: http-folder
+    sources:
+    - https://github.com/AurelienGasser/http-folder
+    urls:
+    - http-folder-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2020-02-20T15:29:31.370536303Z"
+    description: A simple web server with file upload and download
+    digest: 33a46f2819a2b79501eaa2c468a34c0911fc03f93219d673273e51582d2d9ba7
+    home: https://github.com/AurelienGasser/http-folder
+    keywords:
+    - http
+    - web
+    - server
+    - file
+    - upload
+    - download
+    maintainers:
+    - email: aurelien.gasser@gmail.com
+      name: AurelienGasser
+    - email: clement@gautier.im
+      name: ClementGautier
+    - email: kelvin.moutet@owkin.com
+      name: Kelvin-M
+    name: http-folder
+    sources:
+    - https://github.com/AurelienGasser/http-folder
+    urls:
+    - http-folder-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2020-02-20T15:29:31.369719768Z"
+    description: A simple web server with file upload and download
+    digest: 6eab5f9c76c64326dd8164757ce53ed7500825377499a6b867110ebf7cb4542e
+    home: https://github.com/AurelienGasser/http-folder
+    keywords:
+    - http
+    - web
+    - server
+    - file
+    - upload
+    - download
+    maintainers:
+    - email: aurelien.gasser@gmail.com
+      name: AurelienGasser
+    - email: clement@gautier.im
+      name: ClementGautier
+    - email: kelvin.moutet@owkin.com
+      name: Kelvin-M
+    name: http-folder
+    sources:
+    - https://github.com/AurelienGasser/http-folder
+    urls:
+    - http-folder-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-02-20T15:29:31.368781857Z"
