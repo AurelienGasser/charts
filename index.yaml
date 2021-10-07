@@ -1,6 +1,32 @@
 apiVersion: v1
 entries:
   http-folder:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-10-07T10:12:16.671059677-04:00"
+    description: A simple web server with file upload and download
+    digest: 10b7661bf06bb377565733d16c0cbaac6f9937f27fbbc004e234b0870e0ec586
+    home: https://github.com/AurelienGasser/http-folder
+    keywords:
+    - http
+    - web
+    - server
+    - file
+    - upload
+    - download
+    maintainers:
+    - email: aurelien.gasser@gmail.com
+      name: AurelienGasser
+    - email: clement@gautier.im
+      name: ClementGautier
+    - email: kelvin.moutet@owkin.com
+      name: Kelvin-M
+    name: http-folder
+    sources:
+    - https://github.com/AurelienGasser/http-folder
+    urls:
+    - http-folder-2.0.0.tgz
+    version: 2.0.0
   - apiVersion: v1
     appVersion: 1.0.0
     created: "2020-02-20T15:29:31.371304297Z"
@@ -79,4 +105,4 @@ entries:
     urls:
     - http-folder-1.0.0.tgz
     version: 1.0.0
-generated: "2020-02-20T15:29:31.368781857Z"
+generated: "2021-10-07T10:12:16.670498402-04:00"
